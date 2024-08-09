@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently learning Web Development
 
+
+<img src="https://leetcard.jacoblin.cool/Dhirendra-Singh?ext=heatmap&animation=true" />
 <!--
 **Dhirendra012/Dhirendra012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
